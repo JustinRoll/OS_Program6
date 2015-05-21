@@ -1,0 +1,6 @@
+CPE 453 - Program 6
+Justin Roll (jroll)
+
+For this program, simple run make test, and the program will be built and ran.
+You can also run it by typing 'make' or 'make hello' into the terminal, then running the
+hello executable.
